@@ -11,10 +11,7 @@ assignees: ''
 어떤 기능인지 설명해주세요.
 
 ## 시나리오
-기능이 어떻게 동작해야 하는지 다음 링크를 참고하여 설명해주세요.
-https://www.notion.so/cobaltinc/27aba307224d404c8c918be43a7fa1b9
-
-Mermaid.js를 이용하여 다이어그램을 작성하는 것을 추천합니다.
+기능이 어떻게 동작해야 하는지 설명해주세요. Mermaid.js를 이용하여 다이어그램을 작성하는 것을 추천합니다.
 https://mermaid-js.github.io
 
 ## 연관 이슈
