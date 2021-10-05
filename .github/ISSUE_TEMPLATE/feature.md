@@ -2,7 +2,7 @@
 name: Feature
 about: 추가할 기능에 대해서 상세하게 적어주세요.
 title: "[Feature]: "
-labels: ''
+labels: 'feature'
 assignees: ''
 
 ---
