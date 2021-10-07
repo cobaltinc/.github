@@ -1,8 +1,8 @@
 ---
 name: Enhancement
 about: 개선할 기능에 대해서 상세하게 적어주세요.
-title: "[Enhancement]: "
-labels: 'enhancement'
+title: "[개선]: "
+labels: '개선'
 assignees: ''
 
 ---
