@@ -1,8 +1,8 @@
 ---
 name: Feature
 about: 추가할 기능에 대해서 상세하게 적어주세요.
-title: "[Feature]: "
-labels: 'feature'
+title: "[기능]: "
+labels: '기능'
 assignees: ''
 
 ---
@@ -18,4 +18,4 @@ https://mermaid-js.github.io
 연관된 이슈가 있다면 이곳에 적어주세요. 없다면 항목을 지우셔도 됩니다.
 
 ## 비고
-추가로 필요한 설명이 있다면 이곳에 적어주세요.
+추가로 필요한 설명이 있다면 이곳에 적어주세요. 없다면 항목을 지우셔도 됩니다.
