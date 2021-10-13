@@ -3,7 +3,7 @@ name: Bug report
 about: 발견한 버그를 최대한 상세하게 적어주세요.
 title: "[버그]: "
 labels: 버그
-project: Present
+projects: Present
 assignees: ''
 
 ---
